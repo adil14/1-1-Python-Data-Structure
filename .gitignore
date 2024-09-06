@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore PyCharm project files
+/.idea/
+
+# Ignore VSCode project files
+/.vscode/
+
+# Ignore any other unnecessary files
+*.log
+
+# Ignore directories ( Google Drive desktop Folders and Files)
+.gd/
+goutput/
+__pycache__/
+
+# Ignore files
+.DS_Store
+Thumbs.db
+*.tmp
